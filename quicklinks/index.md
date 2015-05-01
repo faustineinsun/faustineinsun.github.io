@@ -14,6 +14,9 @@ share: true
     * ["undo" the push](http://stackoverflow.com/questions/448919/how-can-i-remove-a-commit-on-github) 
         * $ `git push -f origin HEAD^:master`
         * $ `git push -f origin HEAD^^:master` -> reverse the 2 last changes   
+    * [My 10 Favorite GIT Commands](https://www.rallydev.com/blog/engineering/my-10-favorite-git-commands)  
+* Shell
+    * [explainshell.com](http://explainshell.com/)
 * Maven
     * Checking for new plugin updates $ `mvn versions:display-plugin-updates`
     * $ `mvn dependency:tree`
