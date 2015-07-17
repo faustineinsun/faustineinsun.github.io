@@ -1,7 +1,11 @@
 # Menu navigation links
 
+- title: Projects 
+  url: /about/
+
 - title: Site about AI & Algs 
-  url: http://faustineinsun.github.io/ 
+  url: / 
 
 - title: Site about Troubleshooting
   url: http://faustineinsun.blogspot.com/ 
+
