@@ -15,12 +15,12 @@ modified: 2015-03-16
        
 [![demo_yelp](../images/demo_yelp.png)](https://data-map.herokuapp.com)
 
-* [WiseCrowdRec](https://github.com/faustineinsun/WiseCrowdRec) (**Spring MVC** + **Tomcat**)
+* [WiseCrowdRec](https://github.com/faustineinsun/WiseCrowdRec) (**Spring MVC** + **Tomcat** + **Spark Streaming** +**Apach Storm**)
     * mining and learning streaming tweets 
 
 [![demo_wcr](../images/demo_wcr.gif)](https://github.com/faustineinsun/WiseCrowdRec)
 
-* 2nd version of WiseCrowdRec (**Node.js**)
+* 2nd version of WiseCrowdRec (**Node.js** + **Spark Streaming**)
     * [demo video](https://drive.google.com/file/d/0B-OcoMYLimAlcWdBZHFRRHR5Y2c/view) (< 1 minute) 
     * website address: [www.wisecrowdrec.com](http://www.wisecrowdrec.com/)
 
