@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QuickLinks
+title: Quick Links
 description: ""
 image:
   feature: abstract-11.jpg

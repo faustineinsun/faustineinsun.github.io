@@ -1,10 +1,7 @@
 # Menu navigation links
 
-- title: Site about AI 
-  url: http://faustineinsun.github.io/
+- title: Site about AI & Algs 
+  url: http://faustineinsun.github.io/ 
 
 - title: Site about Troubleshooting
   url: http://faustineinsun.blogspot.com/ 
-
-- title: QuickLinks
-  url: /quicklinks/

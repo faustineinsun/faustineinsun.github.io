@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Adventures of AI
+title: Projects 
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -8,4 +8,5 @@ image:
 comments: false
 modified: 2015-03-16
 ---
+
 
