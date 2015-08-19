@@ -9,7 +9,7 @@ comments: false
 modified: 2015-03-16
 ---
 
-* [data-map](https://github.com/faustineinsun/data-map) (hobby project | Node.js, MySQL, Redis, R): 
+* [data-map](https://github.com/faustineinsun/data-map) (Node.js, MySQL, Redis, R): 
     * applied Multinomial Logistic Regression through machine learning algorithms **XGBoost**, **Random Forest**, and **Deep Learning (H2O)** on preprocessed Yelp data, in order to help each Yelp’s business discovers the probability that clients would like to check-in on a certain day in week
     * website address: [https://data-map.herokuapp.com](https://data-map.herokuapp.com)      
        
@@ -28,7 +28,7 @@ modified: 2015-03-16
 
 [![demo_wcr_2nd](../images/demo-wcr-2nd-2.png)](http://www.wisecrowdrec.com/)
 
-* [NYC Taxi Trip Data Visualization](https://github.com/faustineinsun/taxi-info) (hobby project | Django, Python, Heroku): 
+* [NYC Taxi Trip Data Visualization](https://github.com/faustineinsun/taxi-info) (Django, Python, Heroku): 
     * website address: [https://taxi-info.herokuapp.com/](https://taxi-info.herokuapp.com/)      
        
 [![demo_yelp](../images/demo-taxi-info.png)](https://taxi-info.herokuapp.com/)
