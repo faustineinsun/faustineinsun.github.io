@@ -31,6 +31,6 @@ modified: 2015-03-16
 * [NYC Taxi Trip Data Visualization](https://github.com/faustineinsun/taxi-info) (Django, Python, Heroku): 
     * website address: [https://taxi-info.herokuapp.com/](https://taxi-info.herokuapp.com/)      
        
-[![demo_yelp](../images/demo-taxi-info.png)](https://taxi-info.herokuapp.com/)
+[![demo_yelp](../images/demo-taxi-info.png)](https://taxi-info.herokuapp.com)
 
 
