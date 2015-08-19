@@ -29,7 +29,7 @@ modified: 2015-03-16
 [![demo_wcr_2nd](../images/demo-wcr-2nd-2.png)](http://www.wisecrowdrec.com/)
 
 * [NYC Taxi Trip Data Visualization](https://github.com/faustineinsun/taxi-info) (Django, Python, Heroku): 
-    * website address: [https://taxi-info.herokuapp.com/](https://taxi-info.herokuapp.com/)      
+    * website address: [https://taxi-info.herokuapp.com](https://taxi-info.herokuapp.com)      
        
 [![demo_yelp](../images/demo-taxi-info.png)](https://taxi-info.herokuapp.com)
 
