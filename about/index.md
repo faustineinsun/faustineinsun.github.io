@@ -10,7 +10,7 @@ modified: 2015-03-16
 ---
 
 * [data-map](https://github.com/faustineinsun/data-map) (Node.js, MySQL, Redis, R): 
-    * applied Multinomial Logistic Regression through machine learning algorithms **XGBoost**, **Random Forest**, and **Deep Learning (H2O)** on preprocessed Yelp data, in order to help each Yelp’s business discovers the probability that clients would like to check-in on a certain day in week
+    * applied machine learning algorithms **XGBoost**, **Random Forest**, and **Deep Learning (H2O)** on preprocessed Yelp data, in order to help each Yelp’s business discovers the probability that clients would like to check-in on a certain day in week
     * website address: [https://data-map.herokuapp.com](https://data-map.herokuapp.com)      
        
 [![demo_yelp](../images/demo_yelp.png)](https://data-map.herokuapp.com)
