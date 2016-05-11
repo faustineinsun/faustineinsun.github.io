@@ -6,7 +6,7 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2015-03-16
+modified: 2016-05-10
 ---
 
 * [data-map](https://github.com/faustineinsun/data-map) (Node.js, MySQL, Redis, R): 
