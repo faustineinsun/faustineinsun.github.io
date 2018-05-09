@@ -40,7 +40,7 @@ bing_verify:
 timezone:    US/Pacific
 future:      true
 highlighter: rouge 
-markdown:    redcarpet 
+markdown:    kramdown 
 gems:
   - jekyll-sitemap
 sass:
@@ -54,12 +54,12 @@ permalink:   /:categories/:title/
 paginate: 5
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: true
-  input: GFM
 
   coderay:
     coderay_line_numbers: nil
