@@ -9,7 +9,7 @@ tags: [Computer Vision]
 - References:
 	- [opencv-haar-classifier-training](http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html) -> [github](https://github.com/mrnugget/opencv-haar-classifier-training) -> [Usage](https://docs.google.com/document/pub?id=14r34Pd51lKZNlfJIQVRS_3kbow1OcJBKV7wTRRAW5Vg)
 	- [Tutorial: OpenCV haartraining](http://note.sonots.com/SciSoftware/haartraining.html) -> [example (Window OS)](http://nayakamitarup.blogspot.com/2011/07/how-to-make-your-own-haar-trained-xml.html)
-- $ \`git clone https://github.com/mrnugget/opencv-haar-classifier-training\`
+- $ `git clone https://github.com/mrnugget/opencv-haar-classifier-training`
 	- Put target images into `./positive_images`
 	- $ `find ./positive_images -iname "*.tif" > positives.txt`
 - Put background images into `./negative_images`
