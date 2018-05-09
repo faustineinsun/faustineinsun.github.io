@@ -40,7 +40,7 @@ bing_verify:
 timezone:    US/Pacific
 future:      true
 highlighter: rouge 
-markdown:    kramdown
+markdown:    redcarpet 
 gems:
   - jekyll-sitemap
 sass:
