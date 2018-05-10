@@ -2,7 +2,7 @@
 layout: post
 title: Reading List 
 description: "My Reading List for Deep Learning"
-tags: [Reading List, Deep Learning]
+tags: [Deep Learning]
 modified: 2018-05-10
 ---
 
