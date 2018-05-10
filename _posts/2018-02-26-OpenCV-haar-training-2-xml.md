@@ -3,7 +3,7 @@ layout: post
 title: OpenCV haar training to .xml file
 description: "one of the object detection methods in computer vision"
 tags: [Computer Vision]
-modified: 2017-02-26
+modified: 2018-02-26
 ---
 
 - References:
