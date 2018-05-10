@@ -22,9 +22,9 @@ modified: 2018-02-26
     -maxxangle 1.1 -maxyangle 1.1 maxzangle 0.5 -maxidev 255 -w 183 -h 212" 
 {% endhighlight %}
 
-- Download opencv-2.4.8 source code from [here](https://github.com/Itseez/opencv/releases)        
-    - $ `cp src/mergevec.cpp ../opencv-2.4.8/apps/haartraining/`    
-    - $ `cd ../opencv-2.4.8/apps/haartraining/`    
+- Download opencv-2.4.9 source code from [here](https://github.com/Itseez/opencv/releases)        
+    - $ `cp src/mergevec.cpp ../opencv-2.4.9/apps/haartraining/`    
+    - $ `cd ../opencv-2.4.9/apps/haartraining/`    
 
 {% highlight css %}
     g++ `pkg-config --libs --cflags opencv` -I. -o mergevec mergevec.cpp\ 
@@ -38,7 +38,7 @@ modified: 2018-02-26
     - $ `cd ../../../opencv-haar-classifier-training/`    
     - $ `find ./samples -name '*.vec' > samples.txt`    
     - $ `./mergevec samples.txt samples.vec`    
-- Train the classifier ([It takes a couple of days](http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html) (O_o))    
+- Train the classifier     
 
 {% highlight css %}
 $ opencv_traincascade -data classifier -vec samples.vec -bg negatives.txt\ 
