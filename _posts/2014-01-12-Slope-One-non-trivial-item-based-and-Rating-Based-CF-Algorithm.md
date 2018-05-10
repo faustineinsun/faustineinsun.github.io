@@ -3,7 +3,7 @@ layout: post
 title: Slope One, non-trivial item-based and Rating-Based CF Algorithm 
 description: ""
 modified: 2014-01-12
-tags: [Data Sets, Recommender Systems]
+tags: [Data Sets, Recommender Systems, Machine Learning]
 image:
   feature: codewp1.jpg
   credit: www.pointerplace.us
