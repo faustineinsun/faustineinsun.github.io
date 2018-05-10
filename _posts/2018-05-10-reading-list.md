@@ -2,8 +2,8 @@
 layout: post
 title: Reading List 
 description: "My Reading List for Deep Learning"
-modified: 2018-05-10
 tags: [Reading List, Deep Learning]
+modified: 2018-05-10
 ---
 
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/pdf/1802.03268.pdf), _Pham, Hieu, Melody Y. Guan, Barret Zoph, Quoc V. Le, and Jeff Dean. arXiv preprint arXiv:1802.03268 (2018)_
