@@ -3,10 +3,6 @@ layout: post
 title: OpenCV haar training to .xml file
 description: "one of the object detection methods in computer vision"
 tags: [Computer Vision]
-image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 modified: 2014-04-23
 ---
 
