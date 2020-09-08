@@ -28,7 +28,7 @@ modified: 2016-05-10
 
 [![demo_wcr_2nd](../images/demo-wcr-2nd-2.png)](http://www.wisecrowdrec.com/)
 
-* [Digit Recognizer](https://github.com/faustineinsun/recognizer) (**Spark MLlib** + "Node.js")
+* [Digit Recognizer](https://github.com/faustineinsun/recognizer) (**Spark MLlib** + **Node.js**)
 
 [![demo_digit_recognizer](../images/DigitRecognizer-demo_short.gif)](https://github.com/faustineinsun/recognizer)
 
